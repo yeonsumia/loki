@@ -1,0 +1,19 @@
+ENV_NAME: 'Unimal-v0'
+OUT_DIR: './output'
+ENV:
+  MODULES: ["Agent", "Terrain", "Objects"]
+  WALKER: "./derl/envs/assets/unimal_ant.xml"
+  TASK: "bump"
+  KEYS_TO_KEEP: ["proprioceptive"]
+  OBS_TYPES": ["position", "velocity", "imu_vel", "touch", "extremities"]
+TERRAIN:
+  SIZE: [75, 30, 1]
+  START_FLAT: 3
+  FLAT_LENGTH_RANGE: [75, 75, 1]
+OBJECT:
+  NUM_BUMPS: 250
+  BUMP_LEN_RANGE: [0.8, 1.6, 0.2]
+  BUMP_WIDTH_RANGE: [0.8, 1.6, 0.2]
+  BUMP_HEIGHT_RANGE: [0.1, 0.25, 0.05]
+  PLACEMENT_BUFFER_LEN: 5
+  PLACEMENT_BUFFER_WIDTH: 0

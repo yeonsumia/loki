@@ -1,0 +1,31 @@
+name: loki
+channels:
+  - nvidia
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - cmake=3.14.0
+  - conda-forge::glew
+  - conda-forge::mesalib
+  - anaconda::mesa-libgl-cos6-x86_64
+  - patchelf
+  - pyopengl
+  - gym=0.17.1
+  - imageio
+  - lxml
+  - menpo::glfw3
+  - notebook
+  - google-colab
+  - ipykernel
+  - scikit-learn
+  - conda-forge::webdataset
+  - conda-forge::xvfbwrapper
+  - torchvision
+  - pytorch
+  - pytorch-cuda=12.4
+  - torchaudio
+  - numpy=1.23.1
+  - seaborn
+  - wandb
