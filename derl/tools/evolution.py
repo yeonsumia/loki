@@ -69,7 +69,7 @@ def setup_output_dir():
     subfolders = [
         # "models",
         # "metadata",
-        # "xml",
+        "xml",
         # "unimal_init",
         # "rewards",
         # "videos",
