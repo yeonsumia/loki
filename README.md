@@ -18,7 +18,7 @@ generalize across various <b>unseen tasks</b>.</em></div>
 
 > __Convergent Functions, Divergent Forms__  
 > [Hyeonseong Jeon](https://yeonsumia.github.io)\*, [Ainaz Eftekhar](https://ainaz99.github.io)\*, [Aaron Walsman](https://aaronwalsman.com), [Kuo-Hao Zeng](https://kuohaozeng.github.io), [Ali Farhadi](https://homes.cs.washington.edu/~ali), [Ranjay Krishna](https://www.ranjaykrishna.com/index.html)  
-> _preprint_  
+> _NeurIPS 2025_  
 > __[Project page](https://loki-codesign.github.io)&nbsp;/ [arXiv](https://arxiv.org/abs/2505.21665)&nbsp;/ [BibTex](#citation)__
 
 We introduce <strong>LOKI</strong> <img src="assets/loki_logo_no_background.png" alt="Icon" style="width: 20px; margin-right: 10px;" />, a compute-efficient framework for co-designing morphologies and control policies that generalize across unseen tasks. 
