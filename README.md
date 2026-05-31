@@ -119,11 +119,13 @@ bash scripts/finetune_loki.sh 20 40 0 3429 bump # run for each of the top 10 clu
 ## Citation
 If you find <strong>LOKI</strong> <img src="assets/loki_logo_no_background.png" alt="Icon" style="width: 20px; margin-right: 10px;" /> helpful, please consider citing:
 ```bibtex
-@article{jeon2025convergent,
-  title={Convergent Functions, Divergent Forms},
+@article{jeon2026convergent,
+  title={Convergent functions, divergent forms},
   author={Jeon, Hyeonseong and Eftekhar, Ainaz and Walsman, Aaron and Zeng, Kuo-Hao and Farhadi, Ali and Krishna, Ranjay},
-  journal={arXiv preprint arXiv:2505.21665},
-  year={2025}
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={46049--46076},
+  year={2026}
 }
 ```
 
